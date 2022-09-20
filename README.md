@@ -8,11 +8,4 @@ https://health.data.ny.gov/Health/Hospital-Inpatient-Discharges-SPARCS-De-Identi
 **This repo aims to:**
 1. Apply knowledge of descriptive statistics to a dataset
 2. Demonstrate adequate and detailed descriptive analysis for easy understanding amongst physicians and nurses
-
-
-This descriptive analysis should be detailed enough so a physician or nurse
-could understand what information is contained in the dataset, and what
-potentially questions might be asked and answered. 
-
-**I recommend that you try and create at least one descriptive table using the tableone
-package.
+3. Attempt to create least one descriptive table using the tableone package.
